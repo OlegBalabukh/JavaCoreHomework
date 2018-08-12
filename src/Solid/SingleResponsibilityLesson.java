@@ -1,4 +1,4 @@
-package solid;
+package Solid;
 
 // A CLASS SHOULD HAVE ONLY ONE REASON TO CHANGE
 
