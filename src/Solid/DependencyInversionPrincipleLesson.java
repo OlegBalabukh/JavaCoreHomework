@@ -33,8 +33,8 @@ interface DAO {
     void execute();
 }
 
-class DataAccess {
-    void execute() {
+class DataAccess implements DAO {
+    public void execute() {
         System.out.println("execute");
     }
 }
